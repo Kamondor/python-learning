@@ -1,5 +1,5 @@
 t_yil = int(input('Qachon tug\'ilgansiz: '))
-yosh = 2022 - t_yil
+yosh = 2025 - t_yil
 if yosh<7:
     print('Sizga avtobus bepul')
 else:

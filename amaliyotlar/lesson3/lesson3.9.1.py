@@ -1,4 +1,4 @@
-dostlar = ['Hamidullo', 'Abduvali', 'Muhammadqodir', 'Muhammadiyor', 'Jamshidbek']
+dostlar = ['Pal', 'edburg', 'putin', 'tramp', 'zelenskiy']
 sonlar = list(range(9,100,2))
 for dost in dostlar:
     print(f"{dost} ishlaring yaxshimi?")

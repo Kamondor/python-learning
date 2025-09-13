@@ -1,6 +1,6 @@
 a = int(input('1-sonni kiriting:\n'))
 b = int(input('2-sonni kiriting:\n'))
-mehmonlar = ['Ali', 'Vali', 'Soli', 'Olim', 'Hasan', 'Husan']
+mehmonlar = ['Ali', 'Olim', 'Hasan', 'Husan']
 
 sonlar = list(range(a,b))
 for mehmon in mehmonlar:

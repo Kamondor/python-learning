@@ -1,6 +1,6 @@
 first_number = int(input("Birinchi sonni kiritng:\n"))
 second_number = int(input("Ikkinchi sonni kiritng:\n"))
-#foydalanuvchidan sonni olish
+#foydalanuvchidan son olish
 
 
 kopaytiruv = first_number*second_number

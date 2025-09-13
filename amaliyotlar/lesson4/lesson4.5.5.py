@@ -1,4 +1,4 @@
-foydalanuvchilar = ['Kamondor', 'krisa_n1', 'Professor41k', 'Rampage', 'Simple_top', 'TT_Proboy']
+foydalanuvchilar = ['Kamondor', 'krisa_n1', 'neo', 'Rampage', 'matrix', 'morphieus']
 new_login = input('Yangi loginni kiriting: ')
 for solishtirish in foydalanuvchilar:
     if new_login in foydalanuvchilar:

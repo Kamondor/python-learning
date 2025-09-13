@@ -10,7 +10,7 @@ for n in range(5):
         else:
             mavjud_emas.append(mahsulot)
 if len(mavjud_emas) == 0:
-    print('Siz so\'ragan barcha mahsulotlar do\'konimizda bor')
+    print("Siz so\'ragan barcha mahsulotlar do\'konimizda bor")
 else:
     for n in mavjud_emas:
         print(f"Quyidagi mahsulotlar do\'konimizda mavjud emas:{n}")

@@ -1,5 +1,5 @@
 car = {
-    'make':'GM',
+    'make':'gm',
     'model':'Malibu',
     'color':'black',
     'gear':'automatic',
@@ -11,6 +11,6 @@ narx = car.get('narx', 'Bunday kalit mavjud emas') # Narx so'ralganda mavjud ems
 print(car['model'])
 car['key'] = 'value' # Key and value appends
 del car['color'] # Delete key and value
-car['model'] = 'Gentra'
+car['model'] = 'gentra'
 print(narx)
 print(car['model'])

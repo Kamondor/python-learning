@@ -1,6 +1,4 @@
 # python-learning
-Salom do'stlar, Men Anvar Narzullayevning Pythonda dasturlash asoslari kitobidagi mashq va misollarni
+Hello friends, I am writing and uploading the exercises and examples from Anvar Narzullayev's book Fundamentals of Programming in Python to Github.
 
-yozib Github ga yuklayapman
-
-Hurmat bilan @Kamondor
+Sincerelery @Kamondor

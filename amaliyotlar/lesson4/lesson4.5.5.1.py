@@ -1,4 +1,4 @@
-foydalanuvchilar = ['Kamondor', 'krisa_n1', 'Professor41k', 'Rampage', 'Simple_top', 'TT_Proboy']
+foydalanuvchilar = ['Kamondor', 'krisa_n1', 'neo', 'Rampage', 'matrix', 'morphieus']
 new_login = input('Yangi loginni kiriting: ')
 list_1 = []
 list_1.append(new_login)

@@ -6,6 +6,6 @@ del cars[1]  # 2- elementni o'chirib tashlaydi
 cars.insert(0, 'Malibu')  # 1-element bo'lib qo'shiladi
 cars.remove("Malibu") # elmentni nomi bo'yicha o'chiradi
 
-nexia=cars.pop(1)    # 1-elementni sug'urib oladi
+nexia=cars.pop(1)   
 print(cars)
 print(nexia)

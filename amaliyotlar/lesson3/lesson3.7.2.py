@@ -1,10 +1,10 @@
-friends = ['Hamidullo', 'Hikmatillo', 'Abduvaliy', 'Abbos', 'Muhammaddiyor']
-friends.remove('Abduvaliy')
-friends.append('Jo\'rabek')
-friends.insert(2, 'Asrorbek')
-friends.insert(0, 'Jamshidbek')
+friends = ['Jony', 'Masha', 'Elithabeth', 'Smith', 'English']
+friends.remove('English')
+friends.append('Masha')
+friends.insert(2, 'Peter')
+friends.insert(0, 'Griffin')
 yangi_mehmonlar = []
 Diyor = friends.pop() 
-yangi_mehmonlar.append(Diyor)
+yangi_mehmonlar.append('Brian')
 print(friends)
 print(yangi_mehmonlar)

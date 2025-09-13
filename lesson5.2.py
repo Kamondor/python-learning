@@ -1,5 +1,5 @@
 talaba = {
-    'ism':'alijon',
+    'ism':'Alijon',
     'familiya':'shamshiyev',
     'yosh':22,
     'fakultet':'yadro',
@@ -10,7 +10,7 @@ telefonlar = {
     'ali':'iphone x',
     'vali':'galaxy s9',
     'olim':'nokia 3310 ',
-    'orif':'mi 10 pro'
+    'orif':'MI 10 pro'
     }
 #lug'at
 

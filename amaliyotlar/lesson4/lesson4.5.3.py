@@ -1,4 +1,4 @@
-mahsulotlar = ["yog'", 'shakar', 'un', 'pishloq', 'sut', 'non', 'uzum', 'olma', 'mayiz', 'margarin']
+mahsulotlar = ["yog'", 'shakar', 'UN', 'pishloq', 'sut', 'non', 'uzum', 'olma', 'mayiz', 'margarin']
 yangi_savat = []
 
 for n in range(5):

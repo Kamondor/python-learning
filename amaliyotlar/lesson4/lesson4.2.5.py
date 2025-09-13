@@ -5,7 +5,7 @@
  #   print('Login muvafaqqatli kiritildi!')
 yangi_cars = ['toyota', 'mazda', 'hyundai', 'gm', 'kia']
 for car in yangi_cars:
-    if car != 'gm':
+    if car != 'GM':
         print(car.title())
     else:
          print(car.upper())

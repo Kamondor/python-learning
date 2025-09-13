@@ -1,7 +1,7 @@
 mahsulotlar = {
     'olma':10000,
     'anor':20000,
-    'uzum':40000,
+    'uzum':20000,
     'anjir':25000,
     'shaftoli':30000
     }

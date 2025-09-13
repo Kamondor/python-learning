@@ -1,5 +1,5 @@
 a = 5
-b = 6
+b = 0
 ism = 'ahad'
 nums = [1, 2, 3]
 nums1 = [1, 2, 4]

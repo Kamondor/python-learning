@@ -1,4 +1,4 @@
-cars = ['bmw', 'audi', 'tesla', 'mercedes', 'volvo', 'chevrolet', 'UzAuto']
+cars = ['BMW', 'audi', 'tesla', 'mercedes', 'volvo', 'chevrolet', 'UzAuto']
 cars.sort() #bosh harf bo'yicha tartiblash
 
 new_cars =  sorted(cars) # asl ro'yxatga ta'sir qilmasdan tartiblaydi
@@ -11,8 +11,7 @@ fruits = ['pear', 'banana', 'apple', 'watermelon', 'lemon']
 
 fruits.reverse()
 
-sonlar = list(range(0,201,2))  #range 0 dan 200 gacha 2 qadamda sonlarni generat-
-# siyalaydi
+sonlar = list(range(0,201,2))  #range 0 dan 200 gacha 2 qadamda sonlarni generat
 
 narxlar = [12000, 22500,23456, 9800, 5600, 9934, 32874]
 

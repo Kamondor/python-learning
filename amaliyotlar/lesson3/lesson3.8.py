@@ -1,4 +1,4 @@
-davlatlar = ['Vatikan', "O'zbekiston", 'Rossiya', 'Ukraina', 'AQSh', 'Buyuk Britaniya']
+davlatlar = ['Vatikan', "O'zbekiston", 'Rossiya', 'Ukraina', 'USA', 'Buyuk Britaniya']
 sonlar = list(range(120,1200,2))
 jami = sum(sonlar)
 eng_katta = max(sonlar)

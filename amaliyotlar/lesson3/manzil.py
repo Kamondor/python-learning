@@ -8,7 +8,6 @@ viloyat = viloyat.strip()
 tuman = tuman.strip()
 mahalla = mahalla.strip()
 kocha = kocha.strip()
-#malumotni tartibga keltirish
 
 manzil = f"{viloyat} viloyati, {tuman} tumani, {mahalla} mahallasi, {kocha} ko'chasi"
 #ma'lumotni o'zgaruvchiga yuklash

@@ -1,4 +1,4 @@
-son = int(input("Istalgan butun sonni kiriting: "))
+son = int(input("Istalgan butun son kiriting: "))
 boluvchilar = [2, 3, 5, 7, 11, 13, 17, 23, 31, 37, 43, 47]
 for boluv in boluvchilar:
     if son%boluv == 0:

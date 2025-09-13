@@ -1,4 +1,4 @@
-menyu = ['osh', 'qozonkabob', 'shashlik', 'norin', 'somsa']
+menyu = ['plov', 'qozonkabob', 'shashlik', 'norin', 'somsa']
 ovqat = input('Nima ovqat yeysiz?')
 ovqat = ovqat.title()
 if ovqat.lower() in menyu:
