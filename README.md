@@ -3,4 +3,4 @@ Salom do'stlar, Men Anvar Narzullayevning Pythonda dasturlash asoslari kitobidag
 
 yozib Github ga yuklayapman
 
-Hurmat bilan @Kamondor (Shohjahon)
+Hurmat bilan @Kamondor
