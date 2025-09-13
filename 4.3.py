@@ -1,3 +1,4 @@
+#nothing to see here
 yosh = int(input('Yoshingiz nechida?\n'))
 if yosh<=4:
     price = 0
